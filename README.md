@@ -12,7 +12,7 @@ An accurate sales forecast provides several avenues of cost saving + revenue exp
 * **Lean Inventory** | Inventory is a drag on cash flow and high levels of inventory of fresh goods can lead to spoilage and food waste.
 * **Marketing Initiatives** | Maximize marketing dollars by targeting slow nights and weeks.
 
-Using real sales data from a two-star restaurant located in Brooklyn, NY, this is a pilot project exploring what an end-to-end restaurant sales forecasting tool utilizing machine learning would entail. 
+This is a pilot project exploring what an end-to-end restaurant sales forecasting tool utilizing machine learning would entail. 
 
 ### Data Sources
 * **Restaurant Sales Data** | Restaurant sales and guest counts ("covers") were downloaded directly from the restuarant's Point of Sale ("POS") on a check-by-check basis from 1/1/2017 through 06/30/2019, then aggregated into nightly totals covering the Dinner period only, and for the moment, excluding the outdoor area revenue center. 
