@@ -12,7 +12,7 @@ An accurate sales forecast provides several avenues of cost saving + revenue exp
 * **Lean Inventory** | Inventory is a drag on cash flow and high levels of inventory of fresh goods can lead to spoilage and food waste.
 * **Marketing Initiatives** | Maximize marketing dollars by targeting slow nights and weeks.
 
-This is a pilot project exploring what an end-to-end restaurant sales forecasting tool utilizing machine learning would entail. 
+Using real data from a four-star pizzeria in Tysons Corner, VA, this is a pilot project exploring what an end-to-end restaurant sales forecasting tool utilizing machine learning would entail. 
 
 ### Data Sources
 * **Restaurant Sales Data** | Restaurant sales and guest counts ("covers") were downloaded directly from the restuarant's Point of Sale ("POS") on a check-by-check basis from 1/1/2017 through 06/30/2019, then aggregated into nightly totals covering the Dinner period only, and for the moment, excluding the outdoor area revenue center. 
@@ -31,7 +31,7 @@ This is a pilot project exploring what an end-to-end restaurant sales forecastin
 
 ### Restaurant Background
 
-The subject is a two-star restaurant located in Brooklyn, NY. It has a patio that adds a substantial amount of seats. The subject is performing extremely well, earning $5.14 MM in revenue on 64,360 covers on indoor sales only (indoor revenue centers include the dining room, bar area, and a private dining room). For completeness, the outside area earned $733,000 of revenue in 2018, however as noted, the current analysis only covers the inside area.
+The subject is a four-star pizzeria located in Tysons Corner, VA. It has a patio that adds a substantial amount of seats. The subject is performing extremely well, earning $5.14 MM in revenue on 64,360 covers on indoor sales only (indoor revenue centers include the dining room, bar area, and a private dining room). For completeness, the outside area earned $733,000 of revenue in 2018, however as noted, the current analysis only covers the inside area.
 
 The following two charts demonstrate the restaurant's performance on a monthly basis:
 
